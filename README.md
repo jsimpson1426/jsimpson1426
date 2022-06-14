@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsimpson1426, but you can call me Josh!
+- 👋 Hi, I’m @jsimpson1426, but you can call me Josh! If you're interested in taking a look at what I can do, check out my portfolio here: www.joshdev.co .
 - 🌱 I’m currently learning about graphQL and how to implement it in node. I'm also learning about pcb design and firmware development.
 - 👀 I love video games and building custom keyboards! Keyboards are why I'm looking into pcb design. I'm learning, but hopefully I can churn out a few designs 
       and figure out something that works well! I also like to play blues guitar and maybe get into Jazz and music theory, though I may need a bit more free time for that!
